@@ -3,6 +3,7 @@ pkgname=linger-switch
 pkgver=1.0
 pkgrel=2
 pkgdesc="A tool to let user to enable / disable lingering"
+url="https://github.com/adrien1018/linger-switch"
 arch=('i686' 'x86_64')
 provides=('linger-switch')
 source=('Makefile' 'linger-switch.cpp')
