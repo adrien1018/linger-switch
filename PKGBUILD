@@ -1,4 +1,4 @@
-# Author: Adrien Wu
+# Author: Adrien Wu <adrien.sf.wu@gmail.com>
 pkgname=linger-switch
 pkgver=1.0
 pkgrel=2
